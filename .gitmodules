@@ -1,0 +1,9 @@
+[submodule "features/sentinela"]
+	path = features/sentinela
+	url = git@github.com:jcmljunior/sentinela.git
+[submodule "features/collections"]
+	path = features/collections
+	url = git@github.com:jcmljunior/collections.git
+[submodule "features/get_it"]
+	path = features/get_it
+	url = git@github.com:jcmljunior/get_it.git
