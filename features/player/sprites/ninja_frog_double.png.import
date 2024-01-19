@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bjgd41llgpama"
-path="res://.godot/imported/hurt.png-462688ffd8c9c1acb3a692b882dd026a.ctex"
+uid="uid://c5nhw55m1h85r"
+path="res://.godot/imported/ninja_frog_double.png-7aa0b675021f99a2dc0012ef30973de4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://features/player/sprites/hurt.png"
-dest_files=["res://.godot/imported/hurt.png-462688ffd8c9c1acb3a692b882dd026a.ctex"]
+source_file="res://features/player/sprites/ninja_frog_double.png"
+dest_files=["res://.godot/imported/ninja_frog_double.png-7aa0b675021f99a2dc0012ef30973de4.ctex"]
 
 [params]
 
