@@ -1,9 +1,11 @@
-[gd_scene load_steps=3 format=3 uid="uid://bdw8ikc6gsys5"]
+[gd_scene load_steps=4 format=3 uid="uid://bdw8ikc6gsys5"]
 
 [ext_resource type="PackedScene" uid="uid://c83vmomy1wti7" path="res://features/levels/objects/grassland_terrain.tscn" id="1_7eldo"]
+[ext_resource type="Script" path="res://features/levels/scripts/main.gd" id="1_371lk"]
 [ext_resource type="PackedScene" uid="uid://b3rrirvrvpy0i" path="res://features/player/objects/player.tscn" id="2_8u6ya"]
 
 [node name="Main" type="Node2D"]
+script = ExtResource("1_371lk")
 
 [node name="GrasslandTerrain" parent="." instance=ExtResource("1_7eldo")]
 
